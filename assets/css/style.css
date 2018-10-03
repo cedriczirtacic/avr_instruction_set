@@ -1,0 +1,7 @@
+body {font-family: monospace;padding: 30px;}
+dt {padding: 2px;}
+.programlisting {margin-left: 15px;padding: 20px;background-color: black;color: white;width: fit-content;}
+dt:hover {background-color: lightgrey;}
+th {background-color: lightgrey;}
+.footer{text-align:center;margin-top:20px;}
+.informaltable {margin-left: 15px;}
